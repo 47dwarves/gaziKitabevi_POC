@@ -1,0 +1,22 @@
+C:\Users\ruzga\source\repos\Proje\Proje\bin\Debug\Database1.accdb
+C:\Users\ruzga\source\repos\Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\ruzga\source\repos\Proje\Proje\bin\Debug\Proje.exe.manifest
+C:\Users\ruzga\source\repos\Proje\Proje\bin\Debug\Proje.application
+C:\Users\ruzga\source\repos\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\ruzga\source\repos\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\ruzga\source\repos\Proje\Proje\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ruzga\source\repos\Proje\Proje\bin\Debug\MetroSet UI.dll
+C:\Users\ruzga\source\repos\Proje\Proje\obj\Debug\Proje.csproj.AssemblyReference.cache
+C:\Users\ruzga\source\repos\Proje\Proje\obj\Debug\Proje.csproj.SuggestedBindingRedirects.cache
+C:\Users\ruzga\source\repos\Proje\Proje\obj\Debug\Proje.anaSayfa.resources
+C:\Users\ruzga\source\repos\Proje\Proje\obj\Debug\Proje.Form1.resources
+C:\Users\ruzga\source\repos\Proje\Proje\obj\Debug\Proje.Form2.resources
+C:\Users\ruzga\source\repos\Proje\Proje\obj\Debug\Proje.Form3.resources
+C:\Users\ruzga\source\repos\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\ruzga\source\repos\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\ruzga\source\repos\Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\ruzga\source\repos\Proje\Proje\obj\Debug\Proje.exe.manifest
+C:\Users\ruzga\source\repos\Proje\Proje\obj\Debug\Proje.application
+C:\Users\ruzga\source\repos\Proje\Proje\obj\Debug\Proje.csproj.CopyComplete
+C:\Users\ruzga\source\repos\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\ruzga\source\repos\Proje\Proje\obj\Debug\Proje.pdb
